@@ -1,0 +1,12 @@
+.typing-box {
+  color:#a45224;
+}
+
+.box-cursor {
+  color:#a45224;
+  margin-left:.1em;
+  transition: opacity .25s ease-in;
+  -webkit-transition: opacity .25s ease-in;
+  -moz-transition: opacity .25s ease-in;
+  -o-transition: opacity .25s ease-in;
+}
